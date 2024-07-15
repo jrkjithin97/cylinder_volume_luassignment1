@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
         hinp = findViewById(R.id.hinp)
         result = findViewById(R.id.result)
         var flagInp = "cm"
-        var flagOut = "cm"
+        var flagOut = "cm3"
 
 
 
